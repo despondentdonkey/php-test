@@ -1,3 +1,4 @@
 <?php
-include('register.html');
+include('login.html');
+include('show_users.php');
 ?>
